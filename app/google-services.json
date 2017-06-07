@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "907237479202",
+    "firebase_url": "https://starterhacks.firebaseio.com",
+    "project_id": "starterhacks",
+    "storage_bucket": "starterhacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907237479202:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907237479202-19ovlekbpc81jmjerd6fplm2g6bpmjg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "a3b9d56748c718a90c31ddf0a02db64096d85f78"
+          }
+        },
+        {
+          "client_id": "907237479202-ijlpv0ajeothgl2fohooq9n4c7rn4g3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2KNohBcUCop58bime99Az7APcUoEw-I"
+        },
+        {
+          "current_key": "AIzaSyAx705onZfXMVDAxQgnLhb4SHTGl8SNeF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907237479202-ijlpv0ajeothgl2fohooq9n4c7rn4g3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907237479202:android:5dad10adf62ce348",
+        "android_client_info": {
+          "package_name": "com.nathanko.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907237479202-upivq1rgs1f7m5rs4ba4olm2h7fuof68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathanko.tictactoe",
+            "certificate_hash": "01b5cf3fc89235f87ebf3d36e306330577807d9f"
+          }
+        },
+        {
+          "client_id": "907237479202-ijlpv0ajeothgl2fohooq9n4c7rn4g3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2KNohBcUCop58bime99Az7APcUoEw-I"
+        },
+        {
+          "current_key": "AIzaSyAx705onZfXMVDAxQgnLhb4SHTGl8SNeF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907237479202-ijlpv0ajeothgl2fohooq9n4c7rn4g3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
